@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "209226694725",
+    "firebase_url": "https://capstone-2fedw8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "capstone-2fedw8",
+    "storage_bucket": "capstone-2fedw8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209226694725:android:e214da061677ec90f2632c",
+        "android_client_info": {
+          "package_name": "com.mycompany.seizurealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209226694725-2h3jeb2390q5th5r0r3vqb8bguns29ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.seizurealert",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "209226694725-d2ui4243t70vaa1pambusr55smqd1dj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbsDitRqoYubaWOxlUih9u-NIzznzueR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209226694725-d2ui4243t70vaa1pambusr55smqd1dj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209226694725-fnirbh4t98srq93umrd0cvv8m3g2pevl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.seizurealert"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
