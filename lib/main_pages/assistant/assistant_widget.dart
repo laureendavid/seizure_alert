@@ -194,7 +194,7 @@ class _AssistantWidgetState extends State<AssistantWidget> {
                                 onTap: () async {
                                   await callAiAgent(
                                     context: context,
-                                    prompt: null,
+                                    prompt: 'You are a seizure first aid assistant for the SeizureAlert app.',
                                     threadId: currentUserUid,
                                     agentCloudFunctionName: 'geminiChatbot',
                                     provider: 'GOOGLE',
